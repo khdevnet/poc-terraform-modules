@@ -41,9 +41,11 @@ This demo is to see how Terraform Modules work. The original sample script from 
 
 
 ### To run
+```
 `cd state-storage` 
 `terraform init`
 `terraform apply init state storage`
 `cd ..\poc-app ` 
 `terraform init`
 `terraform apply init poc app`
+```
